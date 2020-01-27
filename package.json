@@ -1,0 +1,26 @@
+{
+  "name": "authchallenge",
+  "version": "1.0.0",
+  "description": "lambda project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanAlexander22/node-auth1-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanAlexander22/node-auth1-project/issues"
+  },
+  "homepage": "https://github.com/JordanAlexander22/node-auth1-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
